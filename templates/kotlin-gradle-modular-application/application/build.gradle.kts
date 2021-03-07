@@ -2,8 +2,7 @@ plugins {
     application
 }
 
-group = "com.github.karvozavr.canvas"
-version = "1.0-SNAPSHOT"
+group = "com.github.karvozavr.application"
 
 dependencies {
     // kotlin
